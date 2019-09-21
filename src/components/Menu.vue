@@ -54,5 +54,6 @@ button {
 	background-color: #d0d2df;
 	color: #626369;
 	padding: 0 0.75rem 0 0.75rem;
+	margin-bottom: 1rem;
 }
 </style>
