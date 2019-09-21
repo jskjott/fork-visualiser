@@ -35,7 +35,6 @@ export interface GraphQL {
 	}
 }
 
-let currentRepo: GraphQL
 let graphQL: GraphQL
 
 const vue = Vue.extend({
@@ -46,7 +45,6 @@ const vue = Vue.extend({
 	},
 	data() {
 		return {
-			currentRepo,
 			graphQL,
 		}
 	},
