@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "vue": "^2.6.10",
-    "d3": "^5.9.7"
+    "d3": "^7.6.1"
   },
   "devDependencies": {
     "@types/d3": "^5.7.2",
